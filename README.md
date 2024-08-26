@@ -1,4 +1,5 @@
 
+
 <!-- markdownlint-disable-next-line -->
 # <img src="https://opentelemetry.io/img/logos/opentelemetry-logo-nav.png" alt="OTel logo" width="45"> OpenTelemetry Demo
 
@@ -26,5 +27,7 @@ Our goals are threefold:
 - Create a living example for OpenTelemetry contributors to use for testing new
   versions of the API, SDK, and other components or enhancements.
 
-[
-opentelemetry /Screenshot 2024-08-25 at 11.35.00 AM.png](https://github.com/BandaTharun/-Observability-project-using-the-OpenTelemetry-Application/blob/main/opentelemetry%20/Screenshot%202024-08-25%20at%2011.35.00%E2%80%AFAM.png)
+  ![Alt text](https://github.com/BandaTharun/-Observability-project-using-the-OpenTelemetry-Application/blob/main/opentelemetry%20/Screenshot%202024-08-25%20at%2011.35.00%E2%80%AFAM.png)
+
+
+

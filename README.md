@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- markdownlint-disable-next-line -->
 # <img src="https://opentelemetry.io/img/logos/opentelemetry-logo-nav.png" alt="OTel logo" width="45"> OpenTelemetry Demo
 
@@ -138,3 +139,6 @@ Emeritus:
 [Teletrace]: https://github.com/teletrace/opentelemetry-demo
 [Tracetest]: https://github.com/kubeshop/opentelemetry-demo
 [Uptrace]: https://github.com/uptrace/uptrace/tree/master/example/opentelemetry-demo
+=======
+# -Observability-project-using-the-OpenTelemetry-Application
+>>>>>>> 475b68ad279b885a73105525976a57aa0c093724

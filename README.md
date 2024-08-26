@@ -28,6 +28,8 @@ Our goals are threefold:
   versions of the API, SDK, and other components or enhancements.
 
     
+  ![Alt text](https://github.com/BandaTharun/-Observability-project-using-the-OpenTelemetry-Application/blob/main/opentelemetry%20/Screenshot%202024-08-25%20at%2011.35.00%E2%80%AFAM.png)
+
  
   ![Alt text](https://github.com/BandaTharun/-Observability-project-using-the-OpenTelemetry-Application/blob/main/opentelemetry%20/Screenshot%202024-08-25%20at%205.24.39%E2%80%AFPM.png)
 
@@ -41,10 +43,8 @@ Our goals are threefold:
 
  ![Alt text](https://github.com/BandaTharun/-Observability-project-using-the-OpenTelemetry-Application/blob/main/opentelemetry%20/Screenshot%202024-08-25%20at%205.21.54%E2%80%AFPM.png)
 
-    ![Alt text](https://github.com/BandaTharun/-Observability-project-using-the-OpenTelemetry-Application/blob/main/opentelemetry%20/Screenshot%202024-08-25%20at%205.24.16%E2%80%AFPM.png)
+  ![Alt text](https://github.com/BandaTharun/-Observability-project-using-the-OpenTelemetry-Application/blob/main/opentelemetry%20/Screenshot%202024-08-25%20at%205.24.16%E2%80%AFPM.png)
 
-
-  ![Alt text](https://github.com/BandaTharun/-Observability-project-using-the-OpenTelemetry-Application/blob/main/opentelemetry%20/Screenshot%202024-08-25%20at%2011.35.00%E2%80%AFAM.png)
 
 
   

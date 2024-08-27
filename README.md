@@ -1,3 +1,25 @@
+Excited to share that I've successfully completed an Observability project using the OpenTelemetry Application! 🚀
+
+Which is designed to demonstrate observability concepts in a microservices-based environment. The project highlights the practical implementation of distributed tracing, metrics, and logs using OpenTelemetry.
+
+🔧 Key Learnings & Technical Insights:
+
+Distributed Tracing: Deployed the demo app to observe how requests propagate through multiple services, gaining insights into the causal relationships between different system components.
+
+Metrics & Logs: Gained experience in monitoring and interpreting metrics and logs. The project demonstrated how metrics, such as request rates and error rates, can be utilized to ensure system reliability.
+
+Context Propagation: Explored context propagation to enable tracing across distributed services, crucial for correlating signals across different components and ensuring effective observability.
+
+OpenTelemetry Collector: Configured the OpenTelemetry Collector for data aggregation and export, with a focus on monitoring data flow, handling ingress/egress metrics, and utilizing various processors and exporters.
+ 
+🛠 Tools Used:
+* OpenTelemetry SDKs for multiple programming languages
+* OpenTelemetry Collector for data aggregation and export
+* Prometheus for metrics scraping and visualization
+* Jaeger for distributed tracing and visualization
+* Grafana for analyzing, monitoring, and visualizing telemetry from diverse data sources
+* Loadgen for performance testing, load testing, and functionality testing.
+* Docker & Kubernetes for deployment and orchestration
 
 
 <!-- markdownlint-disable-next-line -->
